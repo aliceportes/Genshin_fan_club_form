@@ -5,7 +5,7 @@ The form is themed around the popular game *Genshin Impact* and includes colorfu
 
 ---
 
-## Project Overview
+## Overview
 
 This HTML/CSS formulary includes:
 - Custom-colored radio buttons for each Genshin element (Geo, Pyro, Hydro, etc.)
