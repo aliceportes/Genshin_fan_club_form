@@ -1,0 +1,67 @@
+body {
+  background-color: navajowhite;
+}
+
+table {
+  width: 100%;
+}
+
+input[type=radio]#geo {
+  accent-color: #FFBF00;
+}
+
+input[type=radio]#pyro {
+  accent-color: #E60000;
+}
+
+input[type=radio]#hydro {
+  accent-color: #0000FF;
+}
+
+input[type=radio]#cryo {
+  accent-color: #6699FF;
+}
+
+input[type=radio]#electro {
+  accent-color: #AA00FF;
+}
+
+input[type=radio]#dendro {
+  accent-color: #3BB300;
+}
+
+input[type=radio]#anemo {
+  accent-color: #4DFF88;
+}
+
+#zhongli {
+  background-color: #FFBF00;
+}
+
+#venti {
+  background-color: #4DFF88;
+}
+
+#raiden {
+  background-color: #AA00FF;
+}
+
+#nahida {
+  background-color: #3BB300;
+}
+
+input[type=submit] {
+  background-color: green;
+  color: white;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+input[type=reset] {
+  background-color: red;
+  color: white;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 5px;
+}
